@@ -5,10 +5,6 @@
   Description:
   A bot created on python selenium, that mines data on cheapest flights using google flights API.
 
-  Disclaimer:
-  Copyright (C) - All Rights Reserved
-  Unauthorized copying of this file, via any medium is strictly prohibited
-  Proprietary and confidential
   Written by Dhairya Dhondiyal, March 2017
 ****************************************************************************************************************************************************************/'''
 from selenium import webdriver
